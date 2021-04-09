@@ -1,7 +1,7 @@
-### Hi Everyone, I'm Dante Alonso 👋
+<h1> Hi Everyone, I'm Dante Alonso! <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="70"></h1>
 
+_I’m currently working on web development projects with HTML / CSS / Javascript and recently with Bootstrap as a student in Microverse, and also for machine learning applications using Python._
 
-- 🔭 I’m currently working on web development projects with HTML / CSS / Javascript and recently with Bootstrap as a student in Microverse, and also for machine learning applications using Python.
 - 🌱 I’m currently learning about web development, front-end and back-end, computer vision, and trying to solve social issues in my local environment :)
 - 👯 I’m looking to collaborate on open source projects and teaching improvement ideas for everyone.
 - 🤔 I'm looking for help with back-end knowledge and experience.
@@ -15,4 +15,3 @@
 - LɪɴᴋᴇᴅIɴ: [Dante Alonso](https://www.linkedin.com/in/dante-hernandez99/)
 
 - ⚡ Fun fact: I'm a twin 💧💧, I can move my ears 😁 and I'm CATolic 😸
--->
