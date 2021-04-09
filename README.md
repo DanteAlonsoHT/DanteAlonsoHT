@@ -14,4 +14,8 @@ _I’m currently working on web development projects with HTML / CSS / Javascrip
 - ᴛᴡɪᴛᴛᴇʀ: [@dante_dante1](https://twitter.com/dante_dante1)
 - LɪɴᴋᴇᴅIɴ: [Dante Alonso](https://www.linkedin.com/in/dante-hernandez99/)
 
-- ⚡ Fun fact: I'm a twin 💧💧, I can move my ears 😁 and I'm CATolic 😸
+- ⚡ Fun fact: I'm a twin 💧💧, I can move my ears, and I'm CATolic 😸
+
+- Dante's GitHub Stats:
+- ![Dante's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanteAlonsoHT&show_icons=true&count_private=true&theme=react) 
+![Dante's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanteAlonsoHT&show_icons=true&count_private=true&theme=react)
