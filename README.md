@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi Everyone, I'm Dante Alonso 👋
 
-<!--
-**DanteAlonsoHT/DanteAlonsoHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on web development projects with HTML / CSS / Javascript and recently with Bootstrap as a student in Microverse, and also for machine learning applications using Python.
+- 🌱 I’m currently learning about web development, front-end and back-end, computer vision, and trying to solve social issues in my local environment :)
+- 👯 I’m looking to collaborate on open source projects and teaching improvement ideas for everyone.
+- 🤔 I'm looking for help with back-end knowledge and experience.
+- 💬 Ask me about computer vision concerns or to collaborate in projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 📫 How to reach me: 
+
+- ɢɪᴛʜᴜʙ: [@DanteAlonsoHT](https://github.com/DanteAlonsoHT)
+- ᴛᴡɪᴛᴛᴇʀ: [@dante_dante1](https://twitter.com/dante_dante1)
+- LɪɴᴋᴇᴅIɴ: [Dante Alonso](https://www.linkedin.com/in/dante-hernandez99/)
+
+- ⚡ Fun fact: I'm a twin 💧💧, I can move my ears 😁 and I'm CATolic 😸
 -->
