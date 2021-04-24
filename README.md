@@ -13,7 +13,7 @@ _I’m currently working on web development projects using HTML / CSS / Javascri
 - 💪 I’m currently learning about web development, front-end and back-end, computer vision, and trying to solve social issues in my local environment :)
 - 👯 I’m looking to collaborate on open source projects and teaching improvement ideas for everyone.
 - 🤝 I'm looking for new opportunities.
-- 💬 Ask me about computer vision concerns or to collaborate in projects.
+- 💬 Ask me about computer vision concerns or to collaborate in web development projects.
 
 
 - 📫 How to reach me: 
