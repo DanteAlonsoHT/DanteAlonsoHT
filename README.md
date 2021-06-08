@@ -1,6 +1,6 @@
 <h1 align='center'> Hi Everyone, I'm Dante Alonso! <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="70"></h1>
 
-_I’m currently working on web development projects using HTML / CSS / Javascript and recently with Bootstrap as a student in Microverse, and also for machine learning applications using Python._
+_I’m currently working on web development projects using HTML / CSS / Javascript / Bootstrap / Ruby / Ruby on Rails / Django / Git and recently with Bootstrap as a student in Microverse, and also for machine learning applications using Python._
 
 <br>
 
