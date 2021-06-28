@@ -1,6 +1,33 @@
-<h1 align='center'> Hi Everyone, I'm Dante Alonso! <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="75"></h1>
+<h1 align='center'> Hi Everyone, I'm Dante Alonso! <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="65">
+</h1>
 
-_I’m currently working on web development projects using HTML / CSS / Javascript / Bootstrap / Ruby / Ruby on Rails / Django / Git and recently with Bootstrap as a student in Microverse, and also for machine learning applications using Python._
+<br>
+<p align="center" style="display: inline;">
+<!-- HTML 5 -->
+<img height=30px src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<!-- CSS3 -->
+ <img height=30px src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<!-- Javascript -->
+<img height=30px src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<!-- Python -->
+ <img height=30px src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<!-- React -->
+<img height=30px src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<!-- Bootstrap -->
+ <img height=30px src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<!-- Django -->
+<img height=30px src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<!-- Ruby on Rails -->
+ <img height=30px src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+<!-- MySQL -->
+ <img height=30px src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<!-- Heroku -->
+ <img height=30px src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+ 
+ <br>
+<p align="center">
+I'm currently working on web development projects using the stack above, as a student in Microverse, and also for personal machine learning applications using Python.
+</p>
 
 <br>
 
