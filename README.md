@@ -1,4 +1,4 @@
-<h1 align='center'> Hi Everyone, I'm Dante Alonso! <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="65">
+<h1 align='center'> Hi Everyone, I'm Dante Alonso! <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="75">
 </h1>
 
 <br>
@@ -25,9 +25,9 @@
  <img height=30px src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
  
  <br>
-<p align="center">
-I'm currently working on web development projects using the stack above, as a student in Microverse, and also for personal machine learning applications using Python.
-</p>
+<h3 align="center">
+I'm currently working on web development projects using the stack above, as a student in Microverse, for freelance projects, indepedient project for companies and for personal machine learning applications as well.
+</h3>
 
 <br>
 
@@ -43,13 +43,13 @@ I'm currently working on web development projects using the stack above, as a st
 - 💬 Ask me about computer vision concerns, to collaborate in web development projects, IT startups in LATAM, IT business ideas, or just cats.
 
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 
-- ɢɪᴛʜᴜʙ: [@DanteAlonsoHT](https://github.com/DanteAlonsoHT)
-- ᴛᴡɪᴛᴛᴇʀ: [@dante_dante1](https://twitter.com/dante_dante1)
-- LɪɴᴋᴇᴅIɴ: [Dante Alonso](https://www.linkedin.com/in/dante-hernandez99/)
+* Github: [@DanteAlonsoHT | Github](https://github.com/DanteAlonsoHT)
+* Twitter: [@dante_dante1 | Twitter](https://twitter.com/dante_dante1)
+* LinkedIn: [Dante Alonso | LinkedIn](https://www.linkedin.com/in/dante-hernandez99/)
 
-- Fun facts: I'm a twin ♊, I can move my ears 👂, and I like cats 😸
+**Fun facts: I'm a twin ♊, I can move my ears 👂, and I like cats 😸**
 
 <h2 align='center'>Dante's GitHub Stats:</h2>
 
