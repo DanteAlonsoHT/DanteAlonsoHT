@@ -25,8 +25,8 @@
  <img height=30px src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
  
  <br>
-<h3 align="center">
-I'm currently working on web development projects using the stack above, as a student in Microverse, for freelance projects, indepedient project for companies and for personal machine learning applications as well.
+<h3 align="center"> -> Full-Stack Software Developer  |  RoR, Django, React, Bootstrap, OpenCV <- <br>
+I'm currently working on web development projects using the stack above, as a student in Microverse, for freelance projects, indepedient project for companies and for personal machine learning applications as well, Feel free to check my tech stack in the icons above.
 </h3>
 
 <br>
