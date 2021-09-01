@@ -50,7 +50,8 @@ I'm currently working on web development projects using the stack above, as a st
 * LinkedIn: [Dante Alonso | LinkedIn](https://www.linkedin.com/in/dante-hernandez99/)
 
 **Fun facts: I'm a twin ♊, I can move my ears 👂, and I like cats 😸**
-
+<div align="center">
 <h2 align='center'>Dante's GitHub Stats:</h2>
 
 ![Dante's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanteAlonsoHT&show_icons=true&count_private=true&theme=react) ![Dante's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanteAlonsoHT&show_icons=true&count_private=true&theme=react)
+ </div>
