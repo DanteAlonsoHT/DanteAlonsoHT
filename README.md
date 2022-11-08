@@ -26,7 +26,7 @@
  
  <br>
 <h2 align="center">Full-Stack Software Developer  |  RoR, Django, React, Bootstrap, OpenCV</h2>
-<h3 align="center"> I'm currently working on web development projects using the stack above, as a student in Microverse, for freelance projects, indepedient project for companies and for personal machine learning applications as well, Feel free to check my tech stack in the icons above.
+<h3 align="center"> I'm currently working as software engineer using the stack above, for freelance projects, indepedient project for companies and for personal machine learning applications as well, Feel free to check my tech stack in the icons above.
 </h3>
 
 <br>
@@ -37,9 +37,8 @@
 
 <h2 align='center'> About myself:</h2>
 
-- 💪 I’m currently learning about web development, front-end and back-end, computer vision, and trying to solve social issues in my local environment :)
-- 👯 I’m looking to collaborate on open source projects and teaching improvement ideas for everyone.
-- 🤝 I'm looking for new opportunities.
+- 💪 Always I'm learning about web development, front-end and back-end, computer vision, and trying to solve social issues in my local environment :)
+- 🤝 I’m looking to collaborate on open source projects and teaching improvement ideas for everyone.
 - 💬 Ask me about computer vision concerns, to collaborate in web development projects, IT startups in LATAM, IT business ideas, or just cats.
 
 
