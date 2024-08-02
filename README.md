@@ -46,7 +46,7 @@
 
 * Github: [@DanteAlonsoHT | Github](https://github.com/DanteAlonsoHT)
 * Twitter: [@dante_dante1 | Twitter](https://twitter.com/dante_dante1)
-* LinkedIn: [Dante Alonso | LinkedIn](https://www.linkedin.com/in/dante-hernandez99/)
+* LinkedIn: [Dante Alonso | LinkedIn](https://www.linkedin.com/in/dante-alonso/)
 
 **Fun facts: I'm a twin ♊, I can move my ears 👂, and I like cats 😸**
 <div align="center">
